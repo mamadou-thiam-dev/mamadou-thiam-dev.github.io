@@ -1,0 +1,19 @@
+title: "Mamadou THIAM"
+email: "mamadouth2025@gmail.com"
+description: "Portfolio - Développeur Web & Data"
+baseurl: ""
+url: "https://mamadou-thiam-dev.github.io"
+
+# Couleurs du template
+color:
+  primary: "#18bc9c"
+  secondary: "#2c3e50"
+
+# Social links
+social:
+  github: "https://github.com/mamadou-thiam-dev"
+  email: "mailto:mamadouth2025@gmail.com"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-agency
